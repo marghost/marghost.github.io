@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Work In Progress
 published: true
 ---
 
