@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 # [](#header-1)Marghost
-![Avatar]({{ site.url }}/assets/avatar.jpg)
+![Avatar](./assets/avatar.jpg)
 
 *   Website : [thegeekghost.com](https://thegeekghost.com)
 *   Twitter : [@marghost](https://twitter.com/marghost)
