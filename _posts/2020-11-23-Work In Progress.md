@@ -9,15 +9,15 @@ Learning github, i will soon upload content here.
 
 >the quieter you are the more you hear
 
-### [](#header-3)Header 3
+### [](#header-3)Code sniplet
 
 ```php
 <?php
-echo "I am learning";
+echo "I am indeed learning";
 ?>
 ```
 
 ```
-Watch out for new content i guess.
+Watch out for new content.
 ```
 M.
