@@ -13,7 +13,8 @@ Learning github, i will soon upload content here.
 
 ```php
 <?php
-echo "i guess i am learning";
+echo "I am learning";
+?>
 ```
 
 ```
