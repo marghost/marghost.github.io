@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 title: Marghost's Github
 description: Main code repository
+
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
