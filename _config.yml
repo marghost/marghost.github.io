@@ -2,6 +2,8 @@ theme: jekyll-theme-hacker
 title: Marghost's Github
 description: Main code repository
 
+baseurl: marghost.github.io
+
 author:
   name: "Marghost"
   email: "marghost@protonmail.com"
